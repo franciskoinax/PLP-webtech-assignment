@@ -1,0 +1,17 @@
+body{
+    background-color:red ;
+
+}
+p,li{
+    color: purple;
+    font-style: italic;
+    margin-left: 20px;
+   
+}
+h1.center{
+    color: black;
+    font-size: ALGERIAN;
+}
+.center{
+    text-align: center;
+}
